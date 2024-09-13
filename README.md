@@ -1,4 +1,4 @@
-Hello! I am Neety, a graduating college student. Currently living here in the Philippines 🇵🇭
+Hello! I am Paolo, a recent IT Graduate. Currently living here in the Philippines 🇵🇭
 Currently learning VueJS, React, Laravel, and .NET. 
 <!---
 ShiinaNeet/ShiinaNeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
